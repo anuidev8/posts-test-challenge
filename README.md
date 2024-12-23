@@ -1,4 +1,4 @@
-# Building a CRUD using [https://jsonplaceholder.typicode.com/](jsonplaceholder) API to painting some posts .
+# Building a CRUD using [https://jsonplaceholder.typicode.com/](jsonplaceholder) API to painting some posts and Material ui .
 
 ## Demo
 
